@@ -3,6 +3,7 @@ description: 3D Design for 3D Printing - Workshop Resources
 google_analytics: 
 show_downloads: true
 theme: jekyll-theme-minimal
+img: Cover_Tron_f.png
 
 gems:
   - jekyll-mentions
