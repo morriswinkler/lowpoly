@@ -4,10 +4,9 @@ I will teach you the three steps to success, after mastering the ancient art of 
 
 ### Overview
 
-In this one day workshop you will learn the most essential tools in [Blender](https://blender.org) in order to create and modify simple geometries based upon real world objects. 
+In this one-day workshop, you will be taught the most essential weapon to create and modify simple geometries based on real world objects: [Blender](https://blender.org). 
 
-There is no prior knoweledge of any modeling software neccesary. Just you and your laptop will face mans greateest enemy: his imagination. But don't worry when you are done fighting your first battle your mind and body will be prepared for many more to come.
-
+There is no prior knowledge of any modeling software necessary. Just you and your laptop will face man's greatest enemy: his imagination. But don't worry when you are done fighting your first battle your mind and body will be prepared for many more to come.
 
 
 ### Authors and Contributors
