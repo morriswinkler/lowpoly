@@ -8,6 +8,7 @@ In this one-day workshop, you will be taught the most essential weapon to create
 
 There is no prior knowledge of any modeling software necessary. Just you and your laptop will face man's greatest enemy: his imagination. But don't worry when you are done fighting your first battle your mind and body will be prepared for many more to come.
 
+  
   spoiler alert: no nurbs included
 
 ### Authors and Contributors
