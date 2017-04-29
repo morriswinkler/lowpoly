@@ -1,14 +1,11 @@
-##Open Design for 3D printing.
+## Low Poly Modeling for Nurbs
 
-A Workshop for the 3D printing enthusiast.  
-
+I will teach you the three steps to success, after mastering the ancient art of low poly modeling you are able to convert anything into its lower order representation in the realm of platonic solids.
 ### Overview
 
-Did you ever wonder how 3D printers work and how you could design objects   
-suitable for printing ? Did you ever feel the urge to create ?    
-Than this might be something for you.
+In this one day workshop you will learn the most essential tools in [Blender](https://blender.org)
 
-This Workshop will make you understand [Blender](http://blender.org) and   
+This Workshop will make you understand [Blender](http://blender.org) andsss
 create designs suitable for a 3D printer. Through 12 hours of lessons   
 we will teach you how to use the Blender User Interface effectively.   
 Understand the tools specially designed to aid you, like the [3D Printing Toolbox](http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Modeling/PrintToolbox).  
