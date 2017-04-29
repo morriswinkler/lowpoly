@@ -1,0 +1,8 @@
+title: Opendesign
+description: 3D Design for 3D Printing - Workshop Resources
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
